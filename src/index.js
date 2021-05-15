@@ -28,7 +28,7 @@ ReactDOM.render(
                 <RadioComponent/>
             </div>
             <div>
-                <h2>Carouse</h2>
+                <h2>Carousel</h2>
                 <PositionCarouselDemo/>
             </div>
             <div>
