@@ -1,0 +1,7 @@
+#radio{
+    display: flex;
+    flex-direction: row;
+}
+#radio p {
+    margin-left: 100px;
+}
